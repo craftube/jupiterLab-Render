@@ -6,7 +6,6 @@
  
 # Define the root directory to /home/runner.
 # We can only write in /home/runner and /tmp in the runner/RDP.
-ROOTFS_DIR=/home/runner
  
 export PATH=$PATH:~/.local/usr/bin
  
